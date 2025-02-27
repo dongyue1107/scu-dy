@@ -1,4 +1,4 @@
-Deep-Learning-Enabled Efficient Screening for Stable Ga-68 and Sc-44 Chelators
+Deep-learning-enabled large-scale molecular assessment for potential Sc-44 chelators
 
 When the repository has been cloned, users can run the scripts. The scripts are:
 1. pair_num_analysis: Graph Isomorphic Neural Network (GIN) for Coordination Number Prediction
