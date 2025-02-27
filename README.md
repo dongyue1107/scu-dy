@@ -1,5 +1,3 @@
-Deep-Learning-Enabled Efficient Screening for Stable Ga-68 and Sc-44 Chelators
-
 When the repository has been cloned, users can run the scripts. The scripts are:
 1. pair_num_analysis: Graph Isomorphic Neural Network (GIN) for Coordination Number Prediction
   This repository contains code for predicting coordination numbers using Graph Isomorphic Neural Networks (GIN).
